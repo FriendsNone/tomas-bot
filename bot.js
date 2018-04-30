@@ -1,6 +1,6 @@
 const Discord = require("discord.js"); 
 
-const BOT_TOKEN = "NDMzMjY1ODU1MDY2MDEzNzA2.DbKXUA.MQARki7_ygeWINfAkkwor6L4tQw"
+const BOT_TOKEN = ""
 const PREFIX = "$"
 
 var eightball = [ 
